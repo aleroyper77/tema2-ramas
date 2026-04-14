@@ -32,19 +32,19 @@ Se ha incluido en la rama main el fichero de Ejercicios-2.md con mis respuestas 
 ## Ejercicio 4. Provocar un conflicto sencillo
 
 Crea una rama nueva llamada `feature/title`. Modifica en esa rama una misma línea del archivo `README.md`, por ejemplo el título principal, y haz un commit. Después, vuelve a la rama principal, modifica exactamente esa misma línea con un contenido diferente y haz otro commit. Intenta fusionar `feature/title` en la rama principal y observa qué mensaje muestra Git.
-
+RESPUESTA: dice que hay un conflicto en el AutoMerge de README.md
 ---
 
 ## Ejercicio 5. Identificar archivos en conflicto
 
 Explica con tus palabras por qué se ha producido el conflicto.
-
+RESPUESTA: El conflicto se ha producido porque se han intentado hacer modificaciones sobre el mismo fichero desde ramas diferentes
 ---
 
 ## Ejercicio 6. Resolver un conflicto manualmente
 
 Abre el archivo en conflicto y localiza las marcas `<<<<<<<`, `=======` y `>>>>>>>`. Resuelve el conflicto manualmente dejando una única versión final coherente del contenido. Después, añade el archivo al área de preparación y completa el proceso de fusión con el commit correspondiente.
-
+RESPUESTA: no me salian las marcas en su lugar lo he resulto con la interfaz de conflict de Visual Studio CODE
 ---
 
 ## Ejercicio 7. Conflicto con varias líneas
