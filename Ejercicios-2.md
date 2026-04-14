@@ -50,7 +50,7 @@ RESPUESTA: no me salian las marcas en su lugar lo he resulto con la interfaz de 
 ## Ejercicio 7. Conflicto con varias líneas
 
 Crea una nueva rama llamada `feature/about` y añade una pequeña sección de presentación en un archivo `about.md`. Después, desde la rama principal, modifica también esa misma sección pero con un texto distinto. Intenta fusionar ambas ramas y resuelve el conflicto combinando parte del contenido de las dos versiones en lugar de quedarte solo con una.
-
+RESPUESTA: hecho
 ---
 
 ## Ejercicio 8. Resolver un conflicto en VSCode o en GitHub
