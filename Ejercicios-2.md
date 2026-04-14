@@ -25,7 +25,8 @@ se ha borrado el archivo header.html porque el GIT sólo guarda los cambios real
 ## Ejercicio 3. Fusión de una rama sin conflicto
 
 En la rama `feature/footer`, crea un archivo llamado `footer.html` y guarda los cambios con un commit. Después, vuelve a la rama principal y fusiona `feature/footer`. Comprueba el historial de commits y explica qué ha ocurrido tras hacer el merge.
-
+RESPUESTA:
+Se ha incluido en la rama main el fichero de Ejercicios-2.md con mis respuestas y el fichero footer.html
 ---
 
 ## Ejercicio 4. Provocar un conflicto sencillo
